@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "colab_demo"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.8"
 jupyter = "^1.0.0"
 
 
